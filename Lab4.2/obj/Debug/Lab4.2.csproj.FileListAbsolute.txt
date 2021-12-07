@@ -1,0 +1,7 @@
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4.2\bin\Debug\Lab4.2.exe.config
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4.2\bin\Debug\Lab4.2.exe
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4.2\bin\Debug\Lab4.2.pdb
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4.2\obj\Debug\Lab4.2.csproj.AssemblyReference.cache
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4.2\obj\Debug\Lab4.2.csproj.CoreCompileInputs.cache
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4.2\obj\Debug\Lab4.2.exe
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4.2\obj\Debug\Lab4.2.pdb
