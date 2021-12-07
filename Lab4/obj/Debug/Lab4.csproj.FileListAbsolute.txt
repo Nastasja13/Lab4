@@ -1,0 +1,14 @@
+C:\Users\nasta\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\nasta\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\nasta\source\repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\nasta\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\nasta\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\nasta\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\nasta\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\2_Обучение\4_ИТМО\VisualStudio\Lab4\Lab4\obj\Debug\Lab4.pdb
